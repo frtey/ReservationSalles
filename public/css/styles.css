@@ -1,0 +1,42 @@
+*{
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*#logo {
+  max-width:10%;
+}*/
+
+#page {
+    width: 90%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+form {
+  width:98%;
+  margin: auto;
+}
+
+#inscription {
+  margin-top: 10px;
+}
+
+#calendar {
+      width: 1250px;
+      margin:auto;
+}
+
+.fc-title{
+    font-weight: bold;
+}
+
+.fc-time-grid .fc-slats td {
+    height: 5em !important;
+}
